@@ -1,0 +1,12 @@
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\berkd\source\repos\GameSatisDemo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache

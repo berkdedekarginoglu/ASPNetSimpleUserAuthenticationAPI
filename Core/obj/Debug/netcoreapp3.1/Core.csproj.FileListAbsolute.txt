@@ -1,0 +1,9 @@
+C:\Users\berkd\source\repos\GameSatisDemo\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\berkd\source\repos\GameSatisDemo\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\berkd\source\repos\GameSatisDemo\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\berkd\source\repos\GameSatisDemo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\berkd\source\repos\GameSatisDemo\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\berkd\source\repos\GameSatisDemo\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\berkd\source\repos\GameSatisDemo\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\berkd\source\repos\GameSatisDemo\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\berkd\source\repos\GameSatisDemo\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
